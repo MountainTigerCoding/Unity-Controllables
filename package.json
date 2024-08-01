@@ -1,21 +1,12 @@
 {
   "name": "com.mountaintigercoding.unitycontrollables",
-  "version": "1.2.3",
-  "displayName": "Controllables",
+  "version": "0.0.1",
+  "displayName": "MT Controllables",
   "description": "This is a package modular framework used to build controllable behaviours like vehicles and player controllers",
-  "unity": "2022.37",
-  "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": {
-
-  },
-
-  "keywords": [
-
-  ],
-
+  "keywords": [],
   "author": {
     "name": "Mountain Tiger",
     "email": "shaanmonis@gmail.com",
