@@ -1,0 +1,17 @@
+{
+    "name": "Runtime.Controllables.Shared",
+    "rootNamespace": "Runtime.Controllables.Shared",
+    "references": [
+        "GUID:6e3a08ceee909594c80c8cb8e647c354",
+        "GUID:905a4cc22eca95843a5eb5b1098dde9b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
